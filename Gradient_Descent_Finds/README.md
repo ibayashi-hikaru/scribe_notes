@@ -1,5 +1,5 @@
 Gradient Descent Finds Global Minima of Deep Neural Networks
-[link](https://arxiv.org/pdf/1811.03804.pdf)
+[pdf](https://arxiv.org/pdf/1811.03804.pdf)
 ![alt text](imgs/01.png)
 ![alt text](imgs/02.png)
 ![alt text](imgs/03.png)
